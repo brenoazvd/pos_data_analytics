@@ -1,0 +1,25 @@
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# Large CSV files
+*.csv
+!fase_1_data_analysis_and_exploration/primeira_aula/*.csv
+
+# Big Data files
+fase_3_big_data/*.csv
+
+
+# Jupyter
+.ipynb_checkpoints/
+__pycache__/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.pyc
