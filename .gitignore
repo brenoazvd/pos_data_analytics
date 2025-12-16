@@ -10,7 +10,6 @@ env/
 # Big Data files
 fase_3_big_data/*.csv
 
-
 # Jupyter
 .ipynb_checkpoints/
 __pycache__/
